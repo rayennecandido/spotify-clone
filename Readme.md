@@ -1,0 +1,1 @@
+Projeto clone do Spotify usando HTML&CSS, Sharp Coders Imã Tech.
